@@ -3,6 +3,8 @@ Sponsored **(but has no involvement)** by [garantiertnicht's idea](https://img.i
 
 **_ALL BOTS ON THIS ARE NOT MY RESPONSIBILITY, and are added in good faith. I WILL NOT BE RESPONSIBLE FOR BOTS DOING BAD THINGS._** 
 
+*Also, I made this as a fun little joke. I have no intent of taking any traffic away from any bot list. plsdonthurtme*
+
 # [Check out the bots](https://github.com/OfficialSorcerertech/Epic-Gamer-Bot-List/tree/master/bots)
 All added by the community!
 
