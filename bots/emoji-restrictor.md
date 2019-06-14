@@ -1,11 +1,12 @@
+# Emoji Restrictor
+* [Add to your Guild](https://discordapp.com/api/oauth2/authorize?client_id=553619116775309332&permissions=1074023425&redirect_uri=https%3A%2F%2Fdiscord.gg%2F9prGCXT&response_type=code&scope=bot)
+* [Support Server](https://discord.gg/9prGCXT)
+
 ## Overview
 
 Did you know Discord had the ability to make a custom emoji only available to
 certain roles? If you didn't, that is because they don't offer an easy way to
 use that function. Enter, Emoji Restrictor!
-
-* [Add to your Guild](https://discordapp.com/api/oauth2/authorize?client_id=553619116775309332&permissions=1074023425&redirect_uri=https%3A%2F%2Fdiscord.gg%2F9prGCXT&response_type=code&scope=bot)
-* [Support Server](https://discord.gg/9prGCXT)
 
 ## Example
 Here is what a user of your server may see on the Discord's Emoji
